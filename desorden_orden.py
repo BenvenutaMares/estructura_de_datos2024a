@@ -10,8 +10,8 @@ for i in range(longitud):
         #print("Esto es j",j) prueba de que se mueve
         #Comparacion 
         if listamal[j] > listamal[j+1]:
-                #intercambio
-                            listamal[j], listamal[j+1] = listamal[j+1], listamal[j]
+            #intercambio
+            listamal[j], listamal[j+1] = listamal[j+1], listamal[j]
             
 
 
