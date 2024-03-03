@@ -1,4 +1,3 @@
-arr=[1,2,3,4,5]
+arr=['A','B','C','D','F']
 for i in arr:
-    if(i % 2!=0):
         print(i)
